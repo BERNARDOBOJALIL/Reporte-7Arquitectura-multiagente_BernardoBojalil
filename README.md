@@ -10,7 +10,7 @@
 
 ## Introducción
 
-Este proyecto implementa un sistema multiagente colaborativo diseñado para automatizar la creación de artículos técnicos sobre tecnología. El sistema está basado en una arquitectura horizontal donde tres agentes especializados (Investigador, Redactor y Editor) trabajan de manera coordinada mediante un sistema de mensajería descentralizado.
+Esta práctica implementa un sistema multiagente colaborativo diseñado para automatizar la creación de artículos técnicos sobre tecnología. El sistema está basado en una arquitectura horizontal donde tres agentes especializados (Investigador, Redactor y Editor) trabajan de manera coordinada mediante un sistema de mensajería descentralizado.
 
 El objetivo principal es demostrar cómo múltiples agentes con roles específicos pueden colaborar eficientemente para completar una tarea compleja. Cada agente utiliza el modelo Gemini 2.5 Flash de Google para procesar información y generar contenido de calidad profesional. El sistema simula un flujo de trabajo editorial real, desde la investigación inicial hasta la publicación del artículo final.
 

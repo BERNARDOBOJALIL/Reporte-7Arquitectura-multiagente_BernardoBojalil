@@ -2,11 +2,11 @@
 
 ## Datos generales del alumno
 
-**Nombre:** [Tu nombre completo]  
-**Matrícula:** [Tu matrícula]  
+**Nombre:** Bernardo Bojalil Lorenzini
+**Matrícula:** 195908 
 **Curso:** Agentes Inteligentes  
 **Período:** Otoño 2025  
-**Institución:** [Tu institución]
+
 
 ## Introducción
 

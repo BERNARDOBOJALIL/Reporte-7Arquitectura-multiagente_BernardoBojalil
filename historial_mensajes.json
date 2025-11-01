@@ -1,0 +1,14 @@
+[
+  {
+    "remitente": "Agente Investigador",
+    "destinatario": "Agente Redactor",
+    "tipo": "investigacion",
+    "timestamp": "2025-11-01T10:43:59.755769"
+  },
+  {
+    "remitente": "Agente Redactor",
+    "destinatario": "Agente Editor",
+    "tipo": "borrador",
+    "timestamp": "2025-11-01T10:44:22.546360"
+  }
+]

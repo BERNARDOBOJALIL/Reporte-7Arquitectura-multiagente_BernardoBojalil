@@ -331,6 +331,22 @@ Tema: Relojes Mecánicos
 ![Artículo final generado sobre relojes mecánicos](imagenes/prueba1_salida.png)
 *Figura 2: Artículo final generado y guardado en archivo de texto*
 
+### Prueba 2: Atlixco
+
+Se probó el sistema con el tema "Atlixco" para validar su comportamiento con temas no tecnológicos y evaluar la capacidad de los agentes para adaptarse a contextos diferentes.
+
+**Entrada del usuario:**
+```
+Tema: Atlixco
+```
+
+![Ejecución del sistema procesando el tema Atlixco](imagenes/prueba2_consola.png)
+*Figura 3: Consola mostrando el procesamiento del tema Atlixco a través de las tres fases*
+
+![Artículo generado sobre Atlixco](imagenes/prueba2_salida.png)
+*Figura 4: Resultado final del artículo sobre Atlixco*
+
+---
 
 En todas las pruebas, el sistema completó exitosamente las tres fases del pipeline, generando artículos coherentes de 700-900 palabras con estructura profesional. Los tiempos de ejecución variaron entre 45-90 segundos dependiendo de la complejidad del tema. Los archivos generados incluyen marcas temporales únicas (formato `articulo_YYYYMMDD_HHMMSS.txt`) y el sistema genera un archivo `historial_mensajes.json` que registra cada mensaje intercambiado entre agentes, permitiendo auditorías detalladas del proceso.
 

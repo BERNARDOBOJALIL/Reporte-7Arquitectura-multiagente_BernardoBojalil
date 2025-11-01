@@ -3,12 +3,12 @@
     "remitente": "Agente Investigador",
     "destinatario": "Agente Redactor",
     "tipo": "investigacion",
-    "timestamp": "2025-11-01T10:43:59.755769"
+    "timestamp": "2025-11-01T11:06:35.972996"
   },
   {
     "remitente": "Agente Redactor",
     "destinatario": "Agente Editor",
     "tipo": "borrador",
-    "timestamp": "2025-11-01T10:44:22.546360"
+    "timestamp": "2025-11-01T11:07:39.236887"
   }
 ]
